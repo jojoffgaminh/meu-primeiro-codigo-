@@ -1,0 +1,17 @@
+void main() {
+  double x = 40;
+  double y = 65;
+  double resultado = x + y;
+  print(resultado);
+
+//e se fizemos com outros operadores
+
+  double resultadosubtracao = x - y;
+  print("resultado da subtração; $resultadosubtracao");
+
+  double resultadomultiplicacao = x * y;
+  print("resultado da multiplicação; $resultadomultiplicacao");
+
+  double resultadodivisao = x / y;
+  print("resultado da divaisão; $resultadodivisao");
+}
